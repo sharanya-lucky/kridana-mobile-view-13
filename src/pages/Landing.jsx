@@ -197,6 +197,11 @@ const Landing = () => {
     <h1 style={{ display: "none" }}>
       Kridana - Find the Best Sports & Fitness Trainers
     </h1>
+    <p>
+Kridana helps users find the best sports trainers, fitness coaches,
+and training institutes near them. Explore categories like martial arts,
+fitness, and more.
+</p>
       {/* 3px white line */}
       <div className="w-full h-[5px] bg-white"></div>
 
