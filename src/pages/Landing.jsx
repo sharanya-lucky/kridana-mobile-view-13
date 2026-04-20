@@ -193,6 +193,10 @@ const Landing = () => {
 
   return (
     <div className="w-full font-sans">
+       {/* ✅ ADD THIS LINE */}
+    <h1 style={{ display: "none" }}>
+      Kridana - Find the Best Sports & Fitness Trainers
+    </h1>
       {/* 3px white line */}
       <div className="w-full h-[5px] bg-white"></div>
 
